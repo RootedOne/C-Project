@@ -1,8 +1,6 @@
 # C Toolbox: A Collection of Small Utilities
 
-
-<img width="7758" alt="Untitled" src="https://github.com/user-attachments/assets/20046d60-ed95-4ffb-a0b3-ee634bece8f2" />
-
+<img width="7758" alt="Untitled" src="https://github.com/user-attachments/assets/2ee8045d-89f1-44f5-ab1e-99f4477ab988" />
 
 ## Project Overview
 
